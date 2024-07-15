@@ -1,4 +1,4 @@
-# Reporte anual de análisis de gastos y presupuestos del área de marketing de un e-commerce
+# Análisis de gastos y presupuestos del área de marketing de una empresa
 
 El proyecto se realizó con la herramienta de visualización Power BI apoyado en los datos proporcionados por el canal de Youtube [Visual Data](https://www.youtube.com/@visualdata_oficial).
 
